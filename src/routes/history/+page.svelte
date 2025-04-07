@@ -17,7 +17,7 @@
         <div class="grid m-auto w-full max-w-6xl text-xl text-black">
             <div>
                 <TagBlock class="float-left max-w-lg" direction="right" extend={true} backgroundColor="north3">
-                    5 Years ago, the first “pythonconference” was held, with 40 attendees this started as a meet-up. This conference grew into a big and fun conference with up to 150 attendees in 2023. This year the organization of the “pythonconference” applied to host the first PyCon NL to the Python Software Foundation and we are really proud that today we can actually say that we will host the first PyCon NL on October 10th, 2024. 
+                    5 Years ago, the first “pythonconference” was held, with 40 attendees this started as a meet-up. This conference grew into a big and fun conference with up to 150 attendees in 2023. This year the organization of the “pythonconference” applied to host the first PyCon NL to the Python Software Foundation and we are really proud that today we can actually say that we will host the first PyCon NL on October 16th, 2025. 
                 </TagBlock>
             </div>
 

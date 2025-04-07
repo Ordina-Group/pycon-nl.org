@@ -2,8 +2,8 @@
 	import TagBlock from '$lib/components/TagBlock.svelte';
 </script>
 
-<div class="z-10 w-full bg-western py-6 text-black" id="info">
-	<div class="text-3xl text-center font-bold">Welcome to the first PyCon NL conference!</div>
+<div class="z-10 w-full bg-western py-6 text-black custom-info" id="info">
+	<div class="text-3xl text-center font-bold">Welcome to PyCon NL!</div>
 	<div class="grid m-auto w-full max-w-6xl py-6 text-xl text-black">
 		<div>
 			<TagBlock
@@ -58,3 +58,11 @@
 		<div class="clear-both" />
 	</div>
 </div>
+
+<style>
+	/* Styling zodat het goed uitkomt met het klikken van de chevronDown */
+	.custom-info {
+		padding-top: 6rem;
+		margin-top: -3rem;
+	}
+</style>
