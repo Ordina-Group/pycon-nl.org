@@ -7,9 +7,9 @@
 
 		// Check if the countdown has reached zero or negative
 		if (diff <= 0) {
-			clearInterval(x); // Stop the countdown
-			displayThanksMessage(); // Display the "Thanks for coming" message
-			return; // Exit the function
+			clearInterval(x);
+			displayThanksMessage();
+			return;
 		}
 
 		let days = Math.floor(diff / (1000 * 60 * 60 * 24));
