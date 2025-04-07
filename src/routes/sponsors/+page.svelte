@@ -15,7 +15,9 @@
         <div class="grid m-auto w-full max-w-6xl text-xl text-black">
             <div>
                 <TagBlock class="float-left max-w-lg" direction="right" extend={true} backgroundColor="north3">
-                    2024 is the first year PyCon NL will be organized. Previous years “Python Conference” was organized where 150 attendees visited the conference. Our care for quality resulted in an amazing community where we kept growing. This year, the “PythonConference” will be rebranded into PyCon NL where we will begrowing even more.
+                    2025 is the second year PyCon NL will be organized. 
+                    In previous years it was the “Python Conference” and it was organized where 150 attendees visited the conference. Our care for quality resulted in an amazing community where we kept growing. 
+                    We will continue to grow as we enter our second year as Pycon NL.
                 </TagBlock>
             </div>
 
@@ -52,8 +54,9 @@
             </div>
 
             <div class="mt-8 ">
-                <h1 class="font-bold text-3xl text-center">Sponsors 2024</h1>
-
+                <!-- TODO: sponsors 2025 toevoegen -->
+                <!-- <h1 class="font-bold text-3xl text-center">Sponsors 2025</h1> -->
+<!-- 
                 <div class='border border-black relative mt-12 text-center'>
                     <h2 class="mt-8 mb-2 font-bold">Gold</h2>
                     <div class="relative flex flex-col text-gray-700 bg-white shadow-md bg-clip-border rounded-xl py-6">
@@ -70,7 +73,7 @@
                             <img src="/marketing/EuroPython_Society.png" alt="EuroPython Society" class="w-96" />
                         </a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

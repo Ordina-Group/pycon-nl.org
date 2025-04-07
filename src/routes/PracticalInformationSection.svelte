@@ -11,7 +11,7 @@
 	<TagBlock class="mt-5" direction="right" extend={true} backgroundColor="north3">
 		<div class="flex w-screen max-w-xl gap-5 text-black">
 			<div class="pl-5 text-2xl sm:pl-0">When:</div>
-			<div class="grow text-2xl">October 10th 2024</div>
+			<div class="grow text-2xl">October 16th 2025</div>
 		</div>
 	</TagBlock>
 
@@ -22,7 +22,7 @@
 				<a target="_blank" rel="noreferrer" href="https://goo.gl/maps/PM1SP5jn8Z9M3LZa7"
 					><img
 						class=" w-60 rounded-full p-1 ring-2 ring-north-50"
-						src="./map.png"
+						src="/map.png"
 						alt="A map showing where the Jaarbeurs Utrecht is located"
 					/></a
 				>

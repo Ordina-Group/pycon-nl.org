@@ -6,10 +6,10 @@
 </script>
 
 <svelte:head>
-	<title>PyCon NL 2024</title>
+	<title>PyCon NL 2025</title>
 
-	<meta name="title" property="og:title" content="PyCon NL 2024" />
-	<meta name="description" property="og:description" content="PyCon NL 2024" />
+	<meta name="title" property="og:title" content="PyCon NL 2025" />
+	<meta name="description" property="og:description" content="PyCon NL 2025" />
 	<meta name="type" property="og:type" content="website" />
 	<meta name="url" property="og:url" content="https://pythonconferentie.nl/" />
 	<meta
