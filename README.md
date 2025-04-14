@@ -11,7 +11,7 @@ Here's the code of the website [pycon-nl.org](https://pycon-nl.org/).
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- Hosted on [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static)
+- Hosted on Github Pages
 - [Prettier](https://prettier.io/) for code formatting
 
 ## Running
@@ -25,4 +25,4 @@ npm run dev
 
 ### Releasing
 
-Releasing is as simple as pushing/merging to main and merging the PR created by release-please after.
+Releasing is as simple as pushing/merging to main. For more information about how older versions of the site are injected, see https://github.com/code-star/event-ops-template.
